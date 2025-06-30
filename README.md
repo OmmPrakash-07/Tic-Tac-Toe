@@ -23,11 +23,11 @@ A feature-rich **Tic Tac Toe** game built using **Python and Tkinter**, develope
 
 ---
 
+
+
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/67ed12a7-90d7-4cc2-9944-ec824bb71a5b)
-![image](https://github.com/user-attachments/assets/33c89435-dc62-4f3d-9955-5f1f1ae9f657)
-![image](https://github.com/user-attachments/assets/ad413769-983f-4634-b50f-a77567beb8a6)
+<!-- Top image full width --> <p align="center"> <img src="https://github.com/user-attachments/assets/67ed12a7-90d7-4cc2-9944-ec824bb71a5b" width="600" alt="Game Screenshot 1"> </p> <!-- Bottom row with 1/3 and 2/3 split --> <table align="center"> <tr> <td width="33%"> <img src="https://github.com/user-attachments/assets/33c89435-dc62-4f3d-9955-5f1f1ae9f657" width="100%" alt="Game Screenshot 2"> </td> <td width="67%"> <img src="https://github.com/user-attachments/assets/ad413769-983f-4634-b50f-a77567beb8a6" width="100%" alt="Game Screenshot 3"> </td> </tr> </table>
 
 
 
