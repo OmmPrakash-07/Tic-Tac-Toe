@@ -27,6 +27,8 @@ A feature-rich **Tic Tac Toe** game built using **Python and Tkinter**, develope
 
 ![image](https://github.com/user-attachments/assets/67ed12a7-90d7-4cc2-9944-ec824bb71a5b)
 ![image](https://github.com/user-attachments/assets/33c89435-dc62-4f3d-9955-5f1f1ae9f657)
+![image](https://github.com/user-attachments/assets/ad413769-983f-4634-b50f-a77567beb8a6)
+
 
 
 ---
