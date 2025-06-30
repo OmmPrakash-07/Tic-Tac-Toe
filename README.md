@@ -57,3 +57,10 @@ tic_tac_toe/
 ## 🤝 Acknowledgements
 
 Special thanks to **InternPe** for the opportunity and guidance to complete this project as part of their internship program.
+
+---
+
+## 🎥 Demo
+
+Check out a short video demo of the project on [LinkedIn](https://www.linkedin.com/posts/omm-prakash-parida_python-tkinter-ai-activity-7345103924065902592-SK05?utm_source=share&utm_medium=member_android&rcm=ACoAADXFRboB-CUF9RuHP9i6y44wRn-q3qGp7So).
+
